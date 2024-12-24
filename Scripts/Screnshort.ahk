@@ -1,0 +1,1 @@
+﻿ Send, {LWin down}{PrintScreen}{LWin up}  ; Одновременное нажатие Win+PrtSc
